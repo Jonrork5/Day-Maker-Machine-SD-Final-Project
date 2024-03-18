@@ -1,0 +1,14 @@
+C:\Users\Jon\source\repos\Day Maker Machine Final Project\Day Maker Machine Final Project\obj\Debug\net6.0\Day Maker Machine Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\source\repos\Day Maker Machine Final Project\Day Maker Machine Final Project\obj\Debug\net6.0\Day Maker Machine Final Project.AssemblyInfoInputs.cache
+C:\Users\Jon\source\repos\Day Maker Machine Final Project\Day Maker Machine Final Project\obj\Debug\net6.0\Day Maker Machine Final Project.AssemblyInfo.cs
+C:\Users\Jon\source\repos\Day Maker Machine Final Project\Day Maker Machine Final Project\obj\Debug\net6.0\Day Maker Machine Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Jon\source\repos\Day Maker Machine Final Project\Day Maker Machine Final Project\bin\Debug\net6.0\Day Maker Machine Final Project.exe
+C:\Users\Jon\source\repos\Day Maker Machine Final Project\Day Maker Machine Final Project\bin\Debug\net6.0\Day Maker Machine Final Project.deps.json
+C:\Users\Jon\source\repos\Day Maker Machine Final Project\Day Maker Machine Final Project\bin\Debug\net6.0\Day Maker Machine Final Project.runtimeconfig.json
+C:\Users\Jon\source\repos\Day Maker Machine Final Project\Day Maker Machine Final Project\bin\Debug\net6.0\Day Maker Machine Final Project.dll
+C:\Users\Jon\source\repos\Day Maker Machine Final Project\Day Maker Machine Final Project\bin\Debug\net6.0\Day Maker Machine Final Project.pdb
+C:\Users\Jon\source\repos\Day Maker Machine Final Project\Day Maker Machine Final Project\obj\Debug\net6.0\Day Maker Machine Final Project.dll
+C:\Users\Jon\source\repos\Day Maker Machine Final Project\Day Maker Machine Final Project\obj\Debug\net6.0\refint\Day Maker Machine Final Project.dll
+C:\Users\Jon\source\repos\Day Maker Machine Final Project\Day Maker Machine Final Project\obj\Debug\net6.0\Day Maker Machine Final Project.pdb
+C:\Users\Jon\source\repos\Day Maker Machine Final Project\Day Maker Machine Final Project\obj\Debug\net6.0\Day Maker Machine Final Project.genruntimeconfig.cache
+C:\Users\Jon\source\repos\Day Maker Machine Final Project\Day Maker Machine Final Project\obj\Debug\net6.0\ref\Day Maker Machine Final Project.dll
