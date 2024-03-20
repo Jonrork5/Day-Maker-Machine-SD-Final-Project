@@ -1,0 +1,14 @@
+C:\Users\Jon\source\repos\Day Maker Machine no API version\Day Maker Machine no API version\bin\Debug\net6.0\Day Maker Machine no API version.exe
+C:\Users\Jon\source\repos\Day Maker Machine no API version\Day Maker Machine no API version\bin\Debug\net6.0\Day Maker Machine no API version.deps.json
+C:\Users\Jon\source\repos\Day Maker Machine no API version\Day Maker Machine no API version\bin\Debug\net6.0\Day Maker Machine no API version.runtimeconfig.json
+C:\Users\Jon\source\repos\Day Maker Machine no API version\Day Maker Machine no API version\bin\Debug\net6.0\Day Maker Machine no API version.dll
+C:\Users\Jon\source\repos\Day Maker Machine no API version\Day Maker Machine no API version\bin\Debug\net6.0\Day Maker Machine no API version.pdb
+C:\Users\Jon\source\repos\Day Maker Machine no API version\Day Maker Machine no API version\obj\Debug\net6.0\Day Maker Machine no API version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jon\source\repos\Day Maker Machine no API version\Day Maker Machine no API version\obj\Debug\net6.0\Day Maker Machine no API version.AssemblyInfoInputs.cache
+C:\Users\Jon\source\repos\Day Maker Machine no API version\Day Maker Machine no API version\obj\Debug\net6.0\Day Maker Machine no API version.AssemblyInfo.cs
+C:\Users\Jon\source\repos\Day Maker Machine no API version\Day Maker Machine no API version\obj\Debug\net6.0\Day Maker Machine no API version.csproj.CoreCompileInputs.cache
+C:\Users\Jon\source\repos\Day Maker Machine no API version\Day Maker Machine no API version\obj\Debug\net6.0\Day Maker Machine no API version.dll
+C:\Users\Jon\source\repos\Day Maker Machine no API version\Day Maker Machine no API version\obj\Debug\net6.0\refint\Day Maker Machine no API version.dll
+C:\Users\Jon\source\repos\Day Maker Machine no API version\Day Maker Machine no API version\obj\Debug\net6.0\Day Maker Machine no API version.pdb
+C:\Users\Jon\source\repos\Day Maker Machine no API version\Day Maker Machine no API version\obj\Debug\net6.0\Day Maker Machine no API version.genruntimeconfig.cache
+C:\Users\Jon\source\repos\Day Maker Machine no API version\Day Maker Machine no API version\obj\Debug\net6.0\ref\Day Maker Machine no API version.dll
